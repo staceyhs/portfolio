@@ -1,0 +1,38 @@
+body {
+  background-color: darkolivegreen;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 200px;
+  float: left;
+}
+
+a {
+  color: grey;
+}
+
+.jumbotron {
+  background-color: white;
+  color: darkolivegreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.well {
+  background-color: white;
+}
+
+.well h2 {
+  color: darkolivegreen;
+}
+
+.about {
+  color: white;
+}
