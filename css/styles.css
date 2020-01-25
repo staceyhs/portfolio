@@ -31,8 +31,17 @@ h3 {
 
 .well h2 {
   color: darkolivegreen;
+  font-weight: bold;
+}
+
+.well h4 {
+  font-style: italic;
 }
 
 .about {
   color: white;
+}
+
+.highlight {
+  background-color: lightsalmon;
 }
