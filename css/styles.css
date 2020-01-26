@@ -44,4 +44,10 @@ h3 {
 
 .highlight {
   background-color: lightsalmon;
+  padding: 3px;
+}
+
+.countries li {
+  color: darkolivegreen;
+  font-weight: bold;
 }

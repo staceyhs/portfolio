@@ -16,7 +16,7 @@ _This is the beginning of my portfolio site. Written initially to complete my fi
 
 ## Link To GitHub
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_https://github.com/staceyhs/portfolio_
 
 
 Copyright (c) 2020 **_Stacey S_**
