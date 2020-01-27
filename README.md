@@ -14,9 +14,10 @@ _This is the beginning of my portfolio site. Written initially to complete my fi
 * _Created using HTML, CSS, and Bootstrap._
 
 
-## Link To GitHub
+## Link To GitHub Repository & GitHub Pages
 
 _https://github.com/staceyhs/portfolio_
+_https://staceyhs.github.io/portfolio/index.html_
 
 
 Copyright (c) 2020 **_Stacey S_**
